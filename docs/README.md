@@ -1,3 +1,9 @@
+# DIAGRAMATION-TEMPLATE
+
+Grilla interactiva que cambiara el orden desde site-editor y recibira componentes hijos
+
+![image](https://user-images.githubusercontent.com/55117122/204392293-f0e12354-4964-467e-8bd0-a6dbf7d42aea.png)
+
 ## Configuración 
 
 ## Paso 1 - Configuración Básica
