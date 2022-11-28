@@ -17,9 +17,9 @@ Configurar el Manifest.json basado en el siguiente ejemplo:
 ```json
 {
 "vendor": "itgloberspartnercl",
-"name": "pdf-reader",
+"name": "special-diagramation",
 "version": "0.0.1",
-"title": "Lector de PDF",
+"title": "Diagramación especial"
 }
 ```
 ## Paso 4 - Instalar apps necesarias
@@ -34,7 +34,7 @@ Una vez realizadas las configuraciones necesarias de el componente  ejecutar el 
 
 ## Dependencies
 
-"itgloberspartnercl.pdf-reader": "0.x"
+ "itgloberspartnercl.special-diagramation": "0.x"
 
 ## Contributors
 
